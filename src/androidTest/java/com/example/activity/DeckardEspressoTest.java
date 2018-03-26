@@ -1,10 +1,9 @@
 package com.example.activity;
 
-import com.example.R;
-
 import android.support.test.rule.ActivityTestRule;
-import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
+
+import com.example.R;
 
 import org.junit.Rule;
 import org.junit.Test;
